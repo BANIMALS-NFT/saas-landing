@@ -5,6 +5,9 @@ GitHub Repo
 https://github.com/BANIMALS-NFT/saas-landing
 
 Screenshot
+
+
+
 ![App Screenshot](Screenshot.png)
 
 
@@ -42,6 +45,7 @@ Open index.html.
 Deploy
 
 Push to GitHub and deploy with Netlify or Vercel.
+
 
 
 
